@@ -1,0 +1,7 @@
+{
+  "name": "Lumière Essence - Luxury Beauty",
+  "description": "A sophisticated, high-end beauty and skincare e-commerce experience with aesthetic 3D scroll animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
